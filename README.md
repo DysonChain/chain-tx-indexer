@@ -1,6 +1,4 @@
-# likecoin-chain-tx-indexer
-
-This is a tool for indexing transaction from [LikeCoin chain](https://github.com/likecoin/likecoin-chain), replacing the slow `/txs?...` query endpoint provided by Tendermint and the lite client.
+# chain-tx-indexer
 
 ## Build
 
